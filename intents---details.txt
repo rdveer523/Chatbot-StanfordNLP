@@ -1,0 +1,16 @@
+StoreSearch.dat
+================
+Search $storenames
+Search
+Search $storenames in $location
+where is $storenames in $location
+where in $location is $storenames ?
+
+----------------------------------------------------------
+OrderBook.dat
+=============
+I want to order a book
+order book
+I want to order $author book
+I want to order $title by $author
+I want to order $title
